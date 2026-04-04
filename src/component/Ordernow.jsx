@@ -1,7 +1,7 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
 import pizzas from "./pizzas.js";
-import "./ordernow.css";
+import "./Ordernow.css";
 
 const OrderComponent = () => {
     const navigate = useNavigate();
